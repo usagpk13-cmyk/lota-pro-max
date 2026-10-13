@@ -49,7 +49,7 @@ html,body{width:100%;height:100%;overflow:hidden;background:#090909;color:#fff;f
 <body>
 <div class="app">
   <header class="header">
-    <div class="logo">Video<span>Hub</span></div>
+    <div class="logo">XXX<span>Video</span></div>
     <div class="badge">Discover</div>
   </header>
 
