@@ -20,7 +20,7 @@ export async function onRequest(context) {
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#101010">
-<title>XXXVideo</title>
+<title>VideoHub</title>
 <style>
 *{box-sizing:border-box;margin:0;padding:0}
 html,body{width:100%;height:100%;overflow:hidden;background:#090909;color:#fff;font-family:Arial,sans-serif}
