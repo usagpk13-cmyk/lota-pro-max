@@ -177,9 +177,9 @@ html,body{width:100%;height:100%;overflow:hidden;background:#090909;color:#fff;f
 <!-- Waust.at widget -->
 <script id="_wauftb">
 var _wau = _wau || [];
-_wau.push(["dynamic", "f564ux0p31", "ftb", "c4302bffffff", "small"]);
+_wau.push(["tab", "f564ux0p31", "xn0", "bottom-center"]);
 </script>
-<script async src="https://waust.at/d.js"></script>
+<script async src="//waust.at/t.js"></script>
 
 </body>
 </html>`;
